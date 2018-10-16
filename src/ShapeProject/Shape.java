@@ -1,6 +1,4 @@
-package ShapeProject;
 
-public class Shape {
     package ShapeProject;
 
     public abstract class Shape {
@@ -15,4 +13,3 @@ public class Shape {
             return "I am a " + type + ".";
         }
     }
-}
